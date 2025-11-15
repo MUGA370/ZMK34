@@ -1,8 +1,6 @@
- ZMK Firmware para teclado de 34 teclas
-Descripción
-Teclado de 34 teclas con 2 capas y tira LED WS2812B.
-Basado en la Pro Micro SuperMini nRF52840 USB-C Nano con soporte para Bluetooth, Zigbee y 2.4GHz.
+ # Zmk34 Unibody – Configuración ZMK
 
+Este repositorio contiene la configuración de ZMK para el teclado **Zmk34 Unibody** usando un **nice!nano v2** y **10 LEDs WS2812B** de underglow.
 Especificaciones
 Filas: 4 (10, 10, 9, 5)
 Columnas: 10
