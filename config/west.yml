@@ -1,0 +1,20 @@
+manifest:
+  remotes:
+    - name: zmk
+      url-base: https://github.com/zmkfirmware
+    - name: muga
+      url-base: https://github.com/mugabo
+
+  projects:
+    - name: zmk
+      remote: zmk
+      revision: main
+      import: true
+
+    - name: zmk-zmk34
+      remote: muga
+      revision: main
+      import: true
+
+  self:
+    path: config
