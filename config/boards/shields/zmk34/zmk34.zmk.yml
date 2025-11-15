@@ -1,0 +1,7 @@
+file_format: "1"
+id: zmk34
+name: "zmk34 Unibody"
+type: shield
+platform: nrf52840
+requires:
+  - zephyr
