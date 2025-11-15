@@ -1,4 +1,4 @@
-ZMK Firmware para teclado de 34 teclas
+ ZMK Firmware para teclado de 34 teclas
 Descripción
 Teclado de 34 teclas con 2 capas y tira LED WS2812B.
 Basado en la Pro Micro SuperMini nRF52840 USB-C Nano con soporte para Bluetooth, Zigbee y 2.4GHz.
